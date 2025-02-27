@@ -174,6 +174,7 @@ module.exports = {
         body: undefined,
         mono: undefined,
         roboto: ["Roboto", "sans-serif"],
+        space: ["Space Mono"],
       },
       fontWeight: {
         extrablack: "950",
